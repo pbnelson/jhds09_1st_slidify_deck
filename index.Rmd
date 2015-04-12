@@ -23,4 +23,18 @@ knit        : slidify::knit2slides
 
 Test slide #2
 
+## Slide 3
 
+What is 1 + 1
+
+1. 1
+
+2. _2_
+
+3. 3
+
+4. 4
+
+*** .hint This is a hint
+
+*** .explanation This is an explanation
